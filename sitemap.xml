@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://huangdi95.github.io/post/first/</loc>
+    <loc>https://huangdi95.github.io/</loc>
     <lastmod>2022-10-17T20:26:57+08:00</lastmod>
   </url><url>
-    <loc>http://huangdi95.github.io/</loc>
+    <loc>https://huangdi95.github.io/post/first/</loc>
     <lastmod>2022-10-17T20:26:57+08:00</lastmod>
   </url><url>
-    <loc>http://huangdi95.github.io/post/</loc>
+    <loc>https://huangdi95.github.io/post/</loc>
     <lastmod>2022-10-17T20:26:57+08:00</lastmod>
   </url><url>
-    <loc>http://huangdi95.github.io/about/</loc>
+    <loc>https://huangdi95.github.io/about/</loc>
     <lastmod>2022-10-17T20:26:14+08:00</lastmod>
   </url><url>
-    <loc>http://huangdi95.github.io/categories/</loc>
+    <loc>https://huangdi95.github.io/categories/</loc>
   </url><url>
-    <loc>http://huangdi95.github.io/tags/</loc>
+    <loc>https://huangdi95.github.io/tags/</loc>
   </url>
 </urlset>
