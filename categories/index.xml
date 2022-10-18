@@ -5,7 +5,6 @@
     <link>https://huangdi95.github.io/categories/</link>
     <description>Recent content in Categories on Di Huang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Copyright Year, Your Name</copyright><atom:link href="https://huangdi95.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://huangdi95.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
